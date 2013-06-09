@@ -1,0 +1,151 @@
+html, body{
+	height:100%;
+}
+.main{
+	background: #5a90ba url(../img/lamp.jpg);
+	background-size: 100%;
+	background-repeat:no-repeat;
+}
+.wrapper{
+	width:auto;
+}
+.container{
+	background:white;
+	padding:30px 50px 50px 30px ;
+	width:550px;
+	margin:0 auto;
+	border:5px solid;
+}
+.link{
+	font-family: 'Julius Sans One', sans-serif;
+	text-align:center;
+	color: #ff9933;
+	font-size:24px;
+}
+a:link{
+	text-decoration:none;
+}
+article{
+	font-family: 'Junge', serif;
+	font-size: 20px;
+}
+.icon{
+	width:130px;
+	height:auto;
+	position:absolute;
+	margin-top:150px;
+	margin-left:80px;
+	border:1px solid;
+}
+.icon:hover{
+	background:white;
+}
+#bottom{
+	width:130px;
+	height:auto;
+	border:5px solid;
+	margin-top:-70px;
+	margin-left:50px;
+	background: white;
+}
+.botros{
+	font-size:150px;
+	position:absolute;
+	margin-top:330px;
+	margin-left:80px;	
+	color:white;
+	font-family: 'Coustard', serif;
+}
+.botros:hover{
+	color:red;
+}
+.Pnavbox{
+	background: black;
+	opacity:0.7;
+	width:185px;
+	color:white;
+	text-decoration:none;
+	font-size:25px;
+	text-align:left;
+	padding-left:10px;
+	margin-bottom:5px;
+}
+.Pnavbox:hover{
+	opacity:0.9;
+}
+.Pnavbox a{
+	color:white;
+}
+.prime{
+	position:absolute;
+	margin-top:300px;
+	margin-left:1000px;
+}
+.navbox{
+	display:inline;
+	background: black;
+	width:150px;
+	height:30px;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	text-align:center;
+	padding:0 10px;
+	margin-right:5px;
+}
+.navbox a{
+	color:white;
+}
+.navbox:hover{
+	opacity:0.7;
+}
+.navbox a:visited{
+	background-color:white;
+	text-decoration:inherit;
+}
+nav{
+	margin-top:20px;
+	font-family:"Julius Sans One", sans-serif;
+}
+footer{
+	position:absolute;
+	margin-top:500px;
+	margin-left:1000px; 
+	width:300px;
+	color:white;
+}
+.head{
+	font-size:130px;
+	margin-top:-150px;
+	margin-bottom:0;
+}
+#mypic{
+	height:350px;
+	width:auto;
+	position:relative;
+	float:right;
+}
+.photo{
+	width:233px;
+	height:auto;
+	margin-left:40px;
+	margin-bottom:10px;
+	display:inline;
+	margin-top:10px;
+}
+#focus{
+	height:auto;
+	width:550px;
+	margin-top:10px;
+}
+ul{
+	list-style-type: none !important;
+	padding-left:0 !important;
+}
+.page{
+	width:700px;
+	min-height:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+}
